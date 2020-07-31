@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0887573a-a3d2-41d4-86f7-5168b8b18f1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.~lock.555.md#" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.README.md#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,7 @@
       <workItem from="1596214564408" duration="47000" />
       <workItem from="1596221457237" duration="244000" />
       <workItem from="1596221857009" duration="921000" />
+      <workItem from="1596232511854" duration="1348000" />
     </task>
     <servers />
   </component>
@@ -75,6 +76,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="508" y="357" width="548" height="269" key="#Notifications" timestamp="1596221489775">
