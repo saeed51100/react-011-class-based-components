@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0887573a-a3d2-41d4-86f7-5168b8b18f1b" name="Default Changelist" comment="" />
+    <list default="true" id="0887573a-a3d2-41d4-86f7-5168b8b18f1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Person/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,7 +40,33 @@
       <option name="presentableId" value="Default" />
       <updated>1596214520393</updated>
       <workItem from="1596214564408" duration="47000" />
+      <workItem from="1596221457237" duration="244000" />
+      <workItem from="1596221857009" duration="533000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="357" width="548" height="269" key="#Notifications" timestamp="1596221489775">
+      <screen x="0" y="27" width="1280" height="932" />
+    </state>
+    <state x="508" y="357" width="548" height="269" key="#Notifications/0.27.1280.932@0.27.1280.932" timestamp="1596221489775" />
+    <state x="121" y="127" key="SettingsEditor" timestamp="1596222100361">
+      <screen x="0" y="27" width="1280" height="932" />
+    </state>
+    <state x="121" y="127" key="SettingsEditor/0.27.1280.932@0.27.1280.932" timestamp="1596222100361" />
   </component>
 </project>
