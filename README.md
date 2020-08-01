@@ -12,6 +12,8 @@
  
 
 <br /><br /><br /><br />
-<p>This project was bootstrapped with <a href="https://github.com/facebookincubator/create-react-app">Create React App</a></p>
+</div>
 
+<div>
+<p>This project was bootstrapped with <a href="https://github.com/facebookincubator/create-react-app">Create React App</a></p>
 </div>
